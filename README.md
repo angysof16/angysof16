@@ -30,15 +30,13 @@
 
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angysof16&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="angysof16's Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angysof16&theme=blue-green&hide_border=true" alt="angysof16's Streak" />  
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angysof16&theme=blue-green&show_icons=true&hide_border=true&layout=compact" alt="angysof16's Top Languages" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angysof16&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=angysof16&theme=blue-green&hide_border=false" alt="Streak Stats"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angysof16&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+</p>
+
 
 
 ---
