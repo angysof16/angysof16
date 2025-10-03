@@ -1,6 +1,6 @@
 # 🐱‍💻 Hey there, I'm Sofia!
 
-🎓 I'm a 19-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
+🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
 💻 Passionate about **software development, web technologies, and problem-solving.**  
 🤖 Currently exploring **IoT and Robotics!**  
 📚 Always learning new tech and improving my coding skills!  
