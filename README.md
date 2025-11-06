@@ -37,32 +37,7 @@
 </div>
 
 
-
-
-
 ---
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🌐 Visit My Website</h3>
-        <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
-          <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
-        </a>
-      </td>
-      <td align="center">
-        <h3>📱 Connect with me!</h3>
-        <a href="https://linkedin.com/in/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angysof16" height="30" width="40" /></a>
-        <a href="https://instagram.com/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angysof16" height="30" width="40" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
 
 
 <h2 align="center">💻 Languages and Tools</h2>
@@ -81,15 +56,20 @@
 ---
 
 
-<h3 align="center">🌐 Visit My Website</h3>
-<p align="center">
-  <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
-    <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
-  </a>
-</p>
-
-<h3 align="center">📱 Connect with me!</h3>
-<p align="center">
-<a href="https://linkedin.com/in/angysof16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angysof16" height="30" width="40" /></a>
-<a href="https://instagram.com/angysof16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angysof16" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌐 Visit My Website</h3>
+        <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
+          <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
+        </a>
+      </td>
+      <td align="center">
+        <h3>📱 Connect with me!</h3>
+        <a href="https://linkedin.com/in/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angysof16" height="30" width="40" /></a>
+        <a href="https://instagram.com/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angysof16" height="30" width="40" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
