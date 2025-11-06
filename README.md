@@ -14,7 +14,7 @@
     <tr>
       <td valign="middle">
         <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-          <img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
+          <img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="100">
         </a>
       </td>
       <td valign="middle">
@@ -29,7 +29,7 @@
 </td>
   <td>
         <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
-          <img width="150" src="https://github.com/user-attachments/assets/85adecca-7ea7-4138-b581-bc9a1055a49a" alt="a"/>
+          <img src="https://github.com/user-attachments/assets/85adecca-7ea7-4138-b581-bc9a1055a49a" width="100" alt="a"/>
         </a>
       </td>
 </tr>
