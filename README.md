@@ -1,4 +1,28 @@
-# 🐱‍💻 Hey there, I'm Sofia!
+<h1 align="center">
+  🐱‍💻 Hey there, I'm Sofia! 
+</h1>
+
+<div align="center">
+<table>
+<tr>
+<td valign="middle">
+<img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
+</td>
+<td valign="middle">
+<pre>
+   _____                                     _____  ____  ________
+  /  _  \   ____    ____ ___.__. ___________/ ____\/_   |/  _____/
+ /  /_\  \ /    \  / ___<   |  |/  ___/  _ \   __\  |   /   __  \ 
+/    |    \   |  \/ /_/  >___  |\___ (  <_> )  |    |   \  |__\  \
+\____|__  /___|  /\___  // ____/____  >____/|__|    |___|\_____  /
+        \/     \//_____/ \/         \/                         \/ 
+</pre>
+</td>
+</tr>
+</table>
+</div>
+
+
 
 🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
 💻 Passionate about **software development, web technologies, and problem-solving.**  
@@ -9,30 +33,16 @@
 
 
 <h2 align="center">💻 Languages and Tools</h2>
-<p align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="display: inline-block;"/>
+<p align="center"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="display: inline-block;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40" style="display: inline-block;"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="display: inline-block;"/>
 </p>
-
-
----
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angysof16&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=angysof16&theme=blue-green&hide_border=false" alt="Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angysof16&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-</p>
-
 
 
 ---
