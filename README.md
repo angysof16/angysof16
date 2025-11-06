@@ -1,12 +1,14 @@
-<h1 align="center">
-  🐱‍💻 Hey there, I'm Sofia! 
-</h1>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4b04406f-5e31-4cea-96c0-8aa5743691f7" />
+</div>
 
+---
 
-🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
-💻 Passionate about **software development, web technologies, and problem-solving.**  
-🤖 Currently exploring **IoT and Robotics!**
-📚 Always learning new tech and improving my coding skills!
+- 🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
+- 💻 Passionate about **software development, web technologies, and problem-solving.**  
+- 🤖 Currently exploring **IoT and Robotics!**
+- 📚 I'm a full time nerd! I'm always learning new tech and improving my coding skills!
+
 
 
 <div align="center">
@@ -50,6 +52,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="display: inline-block;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40" style="display: inline-block;"/>
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="display: inline-block;"/>
+    <img src="https://github.com/user-attachments/assets/6729faff-3a28-4cdf-84e6-41c416d52de4" alt="linux" width="40" height="40" style="display: inline-block;"/>
 </p>
 
 
