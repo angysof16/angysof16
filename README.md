@@ -10,15 +10,15 @@
 
 
 <div align="center">
-<table>
-<tr>
-<td valign="middle">
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
-  </a>
-</td>
-<td valign="middle">
-<pre>
+  <table>
+    <tr>
+      <td valign="middle">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+          <img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
+        </a>
+      </td>
+      <td valign="middle">
+        <pre>
    _____                                     _____  ____  ________
   /  _  \   ____    ____ ___.__. ___________/ ____\/_   |/  _____/
  /  /_\  \ /    \  / ___<   |  |/  ___/  _ \   __\  |   /   __  \ 
@@ -27,6 +27,11 @@
         \/     \//_____/ \/         \/                         \/ 
 </pre>
 </td>
+  <td>
+        <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
+          <img width="150" src="https://github.com/user-attachments/assets/85adecca-7ea7-4138-b581-bc9a1055a49a" alt="a"/>
+        </a>
+      </td>
 </tr>
 </table>
 </div>
@@ -36,6 +41,28 @@
 
 
 ---
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌐 Visit My Website</h3>
+        <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
+          <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
+        </a>
+      </td>
+      <td align="center">
+        <h3>📱 Connect with me!</h3>
+        <a href="https://linkedin.com/in/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angysof16" height="30" width="40" /></a>
+        <a href="https://instagram.com/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angysof16" height="30" width="40" /></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
 
 
 <h2 align="center">💻 Languages and Tools</h2>
