@@ -2,11 +2,20 @@
   🐱‍💻 Hey there, I'm Sofia! 
 </h1>
 
+
+🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
+💻 Passionate about **software development, web technologies, and problem-solving.**  
+🤖 Currently exploring **IoT and Robotics!**
+📚 Always learning new tech and improving my coding skills!
+
+
 <div align="center">
 <table>
 <tr>
 <td valign="middle">
-<img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://github.com/user-attachments/assets/6c26fa00-32a0-438c-b639-c531c83a1ebf" width="150">
+  </a>
 </td>
 <td valign="middle">
 <pre>
@@ -24,10 +33,7 @@
 
 
 
-🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana (Colombia).**  
-💻 Passionate about **software development, web technologies, and problem-solving.**  
-🤖 Currently exploring **IoT and Robotics!**  
-📚 Always learning new tech and improving my coding skills!  
+
 
 ---
 
@@ -51,10 +57,9 @@
 <h3 align="center">🌐 Visit My Website</h3>
 <p align="center">
   <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
-    <img width="100" height="100" src="https://img.icons8.com/FFFFFF/carbon-copy/100/domain.png" alt="domain"/>
+    <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
   </a>
 </p>
-
 
 <h3 align="center">📱 Connect with me!</h3>
 <p align="center">
