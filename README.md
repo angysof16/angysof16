@@ -63,15 +63,21 @@
   <table>
     <tr>
       <td align="center">
-        <h3>🌐 Visit My Website</h3>
+        <h3>Visit My Portfolio!</h3>
         <a href="https://angysof16.github.io/portfolio-app/" target="_blank">
           <img width="100" height="100" src="https://github.com/user-attachments/assets/efb0155b-624f-45e0-a795-d97ffa2b24ed" alt="domain"/>
         </a>
       </td>
       <td align="center">
-        <h3>📱 Connect with me!</h3>
+        <h3>Connect with me!</h3>
         <a href="https://linkedin.com/in/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angysof16" height="30" width="40" /></a>
         <a href="https://instagram.com/angysof16" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angysof16" height="30" width="40" /></a>
+      </td>
+      <td align="center">
+        <h3>Visit My Personal Website!</h3>
+        <a href="https://angysof16.github.io/miscwebsite/" target="_blank">
+          <img width="100" height="100" src="https://github.com/user-attachments/assets/7491c0de-658c-457c-83e9-185d52ffe773" alt="domain"/>
+        </a>
       </td>
     </tr>
   </table>
