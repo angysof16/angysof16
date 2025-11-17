@@ -42,18 +42,11 @@
 ---
 
 
-<h2 align="center">💻 Languages and Tools</h2>
-<p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="display: inline-block;"/>
-    <img src="https://github.com/user-attachments/assets/6729faff-3a28-4cdf-84e6-41c416d52de4" alt="linux" width="40" height="40" style="display: inline-block;"/>
-</p>
+<h2 align="center">Languages and Tools</h2>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=angysof16%27s+Tech+Stack&align=center&titleAlign=center&lineCount=2&theme=hacker&width=500&bg=%23101010&badge=%23222222&border=%23222222&titleColor=%231DDB07&line1=python%2Cpython%2C3473a5%3Bcplusplus%2Cc%2B%2B%2C0063a3%3Bros%2Cros%2C222f49%3Bubuntu%2Cubuntu%2Cdd4814%3Blinux%2Clinux%2Cffffff%3B&line2=react%2Creact%2C01d8ff%3Bhtml5%2Chtml%2Ce44d24%3Bcss%2Ccss%2C0071bb%3Bjavascript%2Cjavascript%2Cfbd825%3B" alt="angysof16's Tech Stack" />
+</div>
 
 
 ---
@@ -81,4 +74,9 @@
       </td>
     </tr>
   </table>
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/29d27fca-5cdd-4cbe-9ea6-5ee05e43c7c1" />
 </div>
