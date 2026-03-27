@@ -6,7 +6,7 @@
 
 - 🎓 I'm a 20-year-old **Systems Engineering** student at **Pontificia Universidad Javeriana.**  
 - 💻 Passionate about **software development, web technologies, and problem-solving.**  
-- 🤖 Currently exploring **IoT and Robotics!**
+- 🤖 Currently exploring **Robotics and Communication Protocols!**
 - 📚 I'm a full time nerd! I'm always learning new tech and improving my skills 🐱‍💻
 
 
